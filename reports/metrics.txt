@@ -1,0 +1,6 @@
+HomeScope — LinearRegression Evaluation Report
+=============================================
+MAE  : 2.3497
+MSE  : 8.4726
+RMSE : 2.9108
+R2   : 0.8236
